@@ -1,0 +1,1 @@
+onClick={() => {props.toggleMode('primary')}}
