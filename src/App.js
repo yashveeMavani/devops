@@ -35,7 +35,7 @@ function App() {
    return (
       <>
          <Router>
-            <Navbar title="TextUtils By Jay Keraliya" mode={mode} toggleMode={togglemode} />
+            <Navbar title="TextUtils By Yashvee Mavani" mode={mode} toggleMode={togglemode} />
             <Alert alert={alert} />
             <Switch>
                <Route path="/about">
